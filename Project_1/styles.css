@@ -1,0 +1,19 @@
+/* 調整主標題字體大小與顏色 */
+h1.title {
+  font-size: 1.5rem;
+  color: cornflowerblue;
+  font-weight: bold;
+}
+  
+/* 調整作者與日期區塊樣式 */
+.quarto-title-author,
+.quarto-title-published {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* 控制圖片輸出尺寸 */
+img {
+  max-width: 100%;
+  height: auto;
+}
