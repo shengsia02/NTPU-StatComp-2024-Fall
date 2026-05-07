@@ -15,7 +15,7 @@ The projects range from foundational probability distribution exploration and pa
 
 ## 📂 File Directory
 
-| Project | Source Code (.ipynb) | Static Report (.html) |
+| Project | Source Code (.ipynb) | Report (.html) |
 | :--- | :---: | :---: |
 | **Project 1** | [`ipynb`](./Project_1/Probability_Distribution_with_Different_Samples.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_1/Probability_Distribution_with_Different_Samples.html) |
 | **Project 2** | [`ipynb`](./Project_2/MLE_Estimate_Experiment.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_2/MLE_Estimate_Experiment.html) |
