@@ -17,8 +17,8 @@ The projects range from foundational probability distribution exploration and pa
 
 | Project | Source Code (.ipynb) | Static Report (.html) |
 | :--- | :---: | :---: |
-| **Project 1** | [💻 Notebook](./Project_1/Probability_Distribution_with_Different_Samples.ipynb) | [🌐 Preview](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_1/Probability_Distribution_with_Different_Samples.html) |
-| **Project 2** | [💻 Notebook](./Project_2/MLE_Estimate_Experiment.ipynb) | [🌐 Preview](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_2/MLE_Estimate_Experiment.html) |
+| **Project 1** | [`ipynb`](./Project_1/Probability_Distribution_with_Different_Samples.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_1/Probability_Distribution_with_Different_Samples.html) |
+| **Project 2** | [`ipynb`](./Project_2/MLE_Estimate_Experiment.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_2/MLE_Estimate_Experiment.html) |
 
 ---
 
@@ -51,7 +51,7 @@ This project focuses on parameter estimation and performance evaluation for comp
 * Employed the `sklearn.mixture.GaussianMixture` (GMM) method and conducted a comparative analysis against the self-built MLE model.
 * Calculated **Mean, Bias, and RMSE** through Monte Carlo simulations to assess estimation precision across different sample sizes.
 
-### ⚙️ Project 6: Reliability Analysis and Simulation for Different Component Structures
+### ⚡ Project 6: Reliability Analysis and Simulation for Different Component Structures
 This project performs reliability analysis and simulation based on component connection configurations.
 * Simulated the reliability distributions for components in **Series** and **Parallel** configurations.
 * Estimated system distribution parameters using four methods: LSM, MLE, MME, and KDE.
@@ -64,11 +64,7 @@ This project performs reliability analysis and simulation based on component con
 **1. Python Version** \
 The development environment for this project is **Python 3.11.3**. It is recommended to refer to the `.python-version` file for configuration.
 
-**2. Dependencies** \
-Ensure the following core scientific computing libraries are installed:
-* `numpy`, `scipy`, `matplotlib`, `pandas`
-* `statsmodels`, `sklearn`
-
+**2. Install Dependencies** \
 You can quickly install them using the following command:
 ```bash
 pip install -r requirements.txt
