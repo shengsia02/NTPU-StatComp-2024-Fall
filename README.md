@@ -1,6 +1,6 @@
 # NTPU Statistical Computing 2024 Fall
 
-This repository contains the source code (.ipynb) and projects for the `Statistical Computing (I)` course at National Taipei University (NTPU), Department of Statistics.
+This repository contains the source code and projects for the `Statistical Computing (I)` course at National Taipei University (NTPU), Department of Statistics.
 
 The projects range from foundational probability distribution exploration and parameter estimation theory verification to reliability analysis of complex systems. Through Python and Monte Carlo simulations, these projects investigate the properties and performance of various statistical methods in depth.
 
@@ -19,6 +19,10 @@ The projects range from foundational probability distribution exploration and pa
 | :--- | :---: | :---: |
 | **Project 1** | [`ipynb`](./Project_1/Probability_Distribution_with_Different_Samples.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_1/Probability_Distribution_with_Different_Samples.html) |
 | **Project 2** | [`ipynb`](./Project_2/MLE_Estimate_Experiment.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_2/MLE_Estimate_Experiment.html) |
+| **Project 3** | [`ipynb`](./Project_3/Two_Sample_TTest.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_3/Two_Sample_TTest.html) |
+| **Project 4** | [`ipynb`](./Project_4/Monte_Carlo_Simulation.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_4/Monte_Carlo_Simulation.html) |
+| **Project 5** | [`ipynb`](./Project_5/Normal_Mixture.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_5/Normal_Mixture.html) |
+| **Project 6** | [`ipynb`](./Project_6/Component_Reliability.ipynb) | [`html`](https://htmlpreview.github.io/?https://github.com/shengsia02/NTPU-StatComp-2024-Fall/blob/main/Project_6/Component_Reliability.html) |
 
 ---
 
