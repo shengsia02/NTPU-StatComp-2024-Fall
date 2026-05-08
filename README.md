@@ -26,36 +26,36 @@ The projects range from foundational probability distribution exploration and pa
 
 ---
 
-### 🔔 Project 1: Exploring Probability Distributions and Random Samples
+### Project 1: Exploring Probability Distributions and Random Samples
 This project aims to intuitively understand the characteristics of common continuous distributions.
 * Visualized and compared the Probability Density Functions (PDF) of **Normal, Chi-square, T, Beta, and F** distributions under different parameters.
 * Generated random samples of varying sizes ($N$) to plot Histograms, Boxplots, Probability plots (Q-Q plots), and Empirical Cumulative Distribution Functions (ECDF).
 * Analyzed the impact of sample size on the stability and representativeness of statistical visualizations.
 
-### 🔍 Project 2: Maximum Likelihood Estimation Experiment for Normal Distribution
+### Project 2: Maximum Likelihood Estimation Experiment for Normal Distribution
 This project verifies the performance of Maximum Likelihood Estimation (MLE) in various scenarios.
 * Visualized joint likelihood functions to investigate the influence of sample characteristics and sample size on the estimator $\hat{\mu}$.
 * Implemented and compared three estimation methods: `scipy.optimize` numerical optimization, Analytical Formulas, and **Grid Search**.
 * Conducted parameter estimation using log-likelihood functions under conditions where both the mean and standard deviation are unknown.
 
-### 📏 Project 3: Analysis of T-values, P-values, and Power in Two-Sample T-Tests
+### Project 3: Analysis of T-values, P-values, and Power in Two-Sample T-Tests
 This project validates the theoretical properties of the Two-Sample T-test through large-scale simulations.
 * Verified whether the distribution of simulated T-values aligns with the theoretical T-distribution.
 * Investigated the impact of sample size on P-value distributions and **Statistical Power** under both $H_0$ (same populations) and $H_1$ (different populations).
 * Demonstrated the effectiveness of the Two-Sample T-test in controlling **Type I Error**.
 
-### ✔️ Project 4: Verifying J-B Test Statistics and Power via Monte Carlo Simulation
+### Project 4: Verifying J-B Test Statistics and Power via Monte Carlo Simulation
 This project utilizes Monte Carlo methods to evaluate the performance of normality tests.
 * Verified whether the Skewness and Kurtosis statistics follow a Standard Normal distribution and if the **Jarque-Bera (J-B)** statistic follows a Chi-square distribution.
 * Compared the **Power** of multiple normality tests (including J-B, K-S, Shapiro-Wilk, Anderson-Darling, etc.) across various population distributions.
 
-### 🧩 Project 5: Parameter Estimation for Normal Mixture Models — MLE vs. GMM
+### Project 5: Parameter Estimation for Normal Mixture Models — MLE vs. GMM
 This project focuses on parameter estimation and performance evaluation for complex mixture distributions.
 * Implemented Maximum Likelihood Estimation (MLE) to estimate parameters for Normal Mixture models.
 * Employed the `sklearn.mixture.GaussianMixture` (GMM) method and conducted a comparative analysis against the self-built MLE model.
 * Calculated **Mean, Bias, and RMSE** through Monte Carlo simulations to assess estimation precision across different sample sizes.
 
-### ⚡ Project 6: Reliability Analysis and Simulation for Different Component Structures
+### Project 6: Reliability Analysis and Simulation for Different Component Structures
 This project performs reliability analysis and simulation based on component connection configurations.
 * Simulated the reliability distributions for components in **Series** and **Parallel** configurations.
 * Estimated system distribution parameters using four methods: LSM, MLE, MME, and KDE.
